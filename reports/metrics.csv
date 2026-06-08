@@ -1,0 +1,2 @@
+test_loss,test_accuracy,accuracy_score,total_test_segments,total_speakers
+0.12302683293819427,0.9527890682220459,0.9527890542775522,6651,43
